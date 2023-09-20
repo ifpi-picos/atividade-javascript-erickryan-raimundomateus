@@ -1,0 +1,22 @@
+body{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.ctn{
+    border: 1px solid black;
+    width: 300px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.botao{
+    border: 2px solid purple;
+    margin: 20px;
+    width: 150px;
+}
+
+.sumir{
+    display: none;
+}
